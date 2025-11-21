@@ -1,6 +1,6 @@
 # Base Web App Configuration
 
-This basic web app configuration will deploy a VPC, EC2 instance, Secrets Manager secret, and S3 bucket in the us-west-2 region. During the *Terraform Inputs and Outputs* course you will make improvements to the configuration. Each section below details the desired changes for each module of the course.
+This basic web app configuration will deploy a VPC, EC2 instance, Secrets Manager secret, and S3 bucket in the eu-west-1 region. During the *Terraform Inputs and Outputs* course you will make improvements to the configuration. Each section below details the desired changes for each module of the course.
 
 Before you begin making changes, you should make a copy of the `base_app` directory and make your changes in that copy. Run one of the following commands depending on your shell:
 

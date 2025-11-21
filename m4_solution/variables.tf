@@ -23,7 +23,7 @@ variable "project" {
 variable "region" {
   description = "AWS Region to deploy resources in."
   type        = string
-  default     = "us-west-2"
+  default     = "eu-west-1"
 }
 
 variable "sg_port_number" {
